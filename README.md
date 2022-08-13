@@ -2,7 +2,7 @@
 a single-player multi-level version of a dungeons and dragons board game
 OOP_Java
 
-to play the game on the windows terminal enter the following command line : java -jar hw3.jar levels_dir\ 
+to play the game on the windows terminal enter the following command line in the file PlayTheGame/ : java -jar hw3.jar levels_dir\ 
 
 how to play?
 *you should choose one of the players by writing its number
